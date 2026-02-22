@@ -56,7 +56,9 @@ I prefer straightforward work and value **responsibility** and **collaboration**
 
 ## My Photos
 
-![Photo 1](./image1.jpg)  
-![Photo 2](./image2.jpg)  
-![Photo 3](./image3.jpg)  
-![Photo 4](./image4.jpg)
+<div>
+  <img src="./image1.jpg" width="200" style="margin-right: 10px;"/>
+  <img src="./image2.jpg" width="200" style="margin-right: 10px;"/>
+  <img src="./image3.jpg" width="200" style="margin-right: 10px;"/>
+  <img src="./image4.jpg" width="200"/>
+</div>

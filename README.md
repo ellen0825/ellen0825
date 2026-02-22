@@ -1,13 +1,13 @@
 # Ellen Martinelli  
 ### Senior Backend Engineer | Problem Solver | Innovator
-<div style="display: flex; justify-content: space-between; gap: 15px; flex-wrap: wrap;">
-  <img src="image1.jpg" alt="Profile Image" width="300" style="border-radius: 12px; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
-  <img src="image2.jpg" alt="At Work" width="300" style="border-radius: 12px; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+<div style="display: flex; justify-content: space-between; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+  <img src="image1.jpg" alt="Profile Image" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+  <img src="image2.jpg" alt="At Work" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 15px; flex-wrap: wrap;">
-  <img src="image3.jpg" alt="Outdoor" width="300" style="border-radius: 12px; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
-  <img src="image4.jpg" alt="Hobby" width="300" style="border-radius: 12px; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+  <img src="image3.jpg" alt="Outdoor" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+  <img src="image4.jpg" alt="Hobby" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 ---

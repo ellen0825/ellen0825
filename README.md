@@ -15,11 +15,11 @@ I thrive on **technical challenges** and constantly seek to improve by learning 
 
 ## My Photos
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <img src="image1.jpg" alt="Image 1" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-  <img src="image2.jpg" alt="Image 2" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-  <img src="image3.jpg" alt="Image 3" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-  <img src="image4.jpg" alt="Image 4" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+  <img src="image1.jpg" alt="Image 1" width="200px" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="image2.jpg" alt="Image 2" width="200px" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="image3.jpg" alt="Image 3" width="200px" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="image4.jpg" alt="Image 4" width="200px" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
 </div>
 
 ---

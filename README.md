@@ -56,7 +56,7 @@ I prefer straightforward work and value **responsibility** and **collaboration**
 
 ## My Photos
 
-![Photo 1](./images/photo1.jpg)
-![Photo 2](./images/photo2.jpg)
-![Photo 3](./images/photo3.jpg)
-![Photo 4](./images/photo4.jpg)
+![Photo 1](./image1.jpg)  
+![Photo 2](./image2.jpg)  
+![Photo 3](./image3.jpg)  
+![Photo 4](./image4.jpg)

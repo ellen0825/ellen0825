@@ -1,53 +1,33 @@
 # Ellen Martinelli  
-### Senior Backend Engineer | Problem Solver | Innovator
-
-
-<div style="display: flex; justify-content: flex-start; margin: 0; padding: 0; width: 100%;">
-  <img src="image1.jpg" alt="Profile Image" width="24%" height=auto style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 40px;">
-  <img src="image2.jpg" alt="At Work" width="24%" height=auto style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 40px;">
-  <img src="image3.jpg" alt="Outdoor" width="24%" height=auto style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 40px;">
-  <img src="image4.jpg" alt="Hobby" width="24%" height=auto style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
-</div>
----
-
-### About Me  
-I’m **Ellen Martinelli**, a **Senior Backend Engineer** with over 5 years of experience. I specialize in designing scalable, high-performance backend systems and solving complex problems using clean, efficient code.
-
-With a deep understanding of modern backend technologies and a passion for continuous learning, I aim to build innovative solutions that are robust, maintainable, and scalable.
+**Senior Full-Stack Developer**  
+St. Petersburg, Russia  
+[ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)
 
 ---
 
-### 🌐 **Tech Stack**  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+## About Me
+
+I’m a **Full-Stack Developer** with 5 years of experience, specializing in both **backend** and **frontend** technologies like **FastAPI**, **Spring Boot**, and **React**. My journey began while attending **Fudan University**, where I honed my technical skills and started applying them in real-world projects. I’m passionate about building **efficient**, **scalable**, and **reliable systems** that solve complex problems.
+
+I thrive on **technical challenges** and constantly seek to improve by learning from feedback and mistakes. I believe in the power of **team collaboration** and always strive to deliver practical, real-world solutions that drive impact.
 
 ---
 
-### 🚀 **Projects**
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; max-width: 45%; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3><a href="https://github.com/ellenmartinelli/project-1" style="color: #3498db; text-decoration: none;">Project 1</a></h3>
-    <p>A high-performance backend system built with FastAPI and PostgreSQL for real-time data management.</p>
-  </div>
-  <div style="flex: 1; max-width: 45%; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3><a href="https://github.com/ellenmartinelli/project-2" style="color: #3498db; text-decoration: none;">Project 2</a></h3>
-    <p>An event-driven microservice architecture designed with RabbitMQ and Docker for high scalability.</p>
-  </div>
+## My Photos
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <img src="image1.jpg" alt="Image 1" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="image2.jpg" alt="Image 2" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="image3.jpg" alt="Image 3" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="image4.jpg" alt="Image 4" width="45%" height="auto" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
 </div>
 
 ---
 
-### 📩 **Contact Me**  
-- 📧 Email: [ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ellenmartinelli) | [GitHub](https://github.com/ellenmartinelli)
+## Contact Information
 
----
-
-### 🎨 **More About Me**  
-I enjoy exploring new places, photography, and discovering new cultures. When I'm not coding, I'm often hiking or spending time with friends, capturing moments through my lens.
-
----
+- **Email**: [ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)
+- **Phone**: +79810981772
+- **Location**: St. Petersburg, Russia
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ellenmartinelli)
+- **GitHub**: [GitHub Profile](https://github.com/ellenmartinelli)

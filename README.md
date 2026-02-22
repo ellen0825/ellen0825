@@ -16,26 +16,15 @@ I thrive on **technical challenges** and constantly seek to improve by learning 
 ## My Photos
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
-  <div style="position: relative;">
-    <img src="image1.jpg" alt="Image 1" width="200px" height="auto" style="border-radius: 12px; transition: 0.3s ease;">
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.4); opacity: 0; transition: 0.3s ease;"></div>
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; opacity: 0; transition: 0.3s ease;">
-      <p style="font-size: 20px; font-weight: bold;">My Image 1</p>
-    </div>
-  </div>
+  <img src="image1.jpg" alt="Image 1" width="200px" height="auto" 
+       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+  <img src="image2.jpg" alt="Image 2" width="200px" height="auto" 
+       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+  <img src="image3.jpg" alt="Image 3" width="200px" height="auto" 
+       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+  <img src="image4.jpg" alt="Image 4" width="200px" height="auto" 
+       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
 </div>
-
-<style>
-  div:hover img {
-    opacity: 0.7;
-  }
-  div:hover div:first-child {
-    opacity: 1;
-  }
-  div:hover div:last-child {
-    opacity: 1;
-  }
-</style>
 
 
 

@@ -107,5 +107,4 @@ From **optimizing backend systems** for better performance, to **creating intuit
   a:hover {
     color: #81C784;
   }
-
 </style>

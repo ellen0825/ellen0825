@@ -15,18 +15,58 @@ I thrive on **technical challenges** and constantly seek to improve by learning 
 
 ## My Photos
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
-  <img src="image1.jpg" alt="Image 1" width="200px" height="auto" 
-       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-  <img src="image2.jpg" alt="Image 2" width="200px" height="auto" 
-       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-  <img src="image3.jpg" alt="Image 3" width="200px" height="auto" 
-       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-  <img src="image4.jpg" alt="Image 4" width="200px" height="auto" 
-       style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="image1.jpg" alt="Image 1" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+  <img src="image2.jpg" alt="Image 2" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+  <img src="image3.jpg" alt="Image 3" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+  <img src="image4.jpg" alt="Image 4" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
 </div>
 
+<style>
+  div img:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.3);
+  }
+</style>
 
+---
+
+## Key Skills
+
+- **Languages & Frameworks**: HTML5, CSS3, JavaScript (ES6+), **TypeScript**, **React**, **Vue.js**, **SASS**, **Tailwind CSS**
+- **Backend Technologies**: **FastAPI**, **Spring Boot**, **PostgreSQL**, **Redis**, **Kafka**
+- **Version Control**: **Git**, **GitHub**, **GitLab**
+- **Testing**: **Jest**, **Cypress**, **Mocha**, **Enzyme**
+- **Performance Optimization**: Lazy loading, **code splitting**, **performance audits**
+- **Deployment & CI/CD**: **AWS**, **Azure**, **Netlify**
+
+---
+
+## Professional Experience
+
+### Full-Stack Developer  
+**TechWave Solutions** | Shanghai, China | Remote  
+*January 2024 – December 2025*
+- Developed and optimized **backend systems** with **FastAPI** and **Spring Boot**, while building responsive **frontend** applications with **React**.
+- Improved **PostgreSQL** and **Redis** performance, reducing response time by **30%**.
+- Implemented a **real-time data processing system** using **Kafka** and **WebSocket** to enhance communication and data flow.
+- Collaborated remotely with distributed teams across different time zones, improving communication and problem-solving.
+
+---
+
+## Education
+
+**Bachelor's Degree in Computer Science**  
+**Fudan University**, Shanghai, China | *September 2018 – July 2022*  
+Key Courses: **Web Development**, **Algorithms**, **UI/UX Design**, **Cloud Computing**
+
+---
+
+## My Story
+
+Every project I’ve worked on has been a **step forward** in my career. But it's not just the **code** or the **technologies** that have shaped me, it’s the challenges and **personal growth** that I’ve experienced along the way.
+
+From **optimizing backend systems** for better performance, to **creating intuitive user experiences** for frontend, I’ve always approached every task with the goal to improve — to grow. The mistakes I’ve made have taught me **perseverance**, and the successes have motivated me to **push further**.
 
 ---
 
@@ -37,3 +77,35 @@ I thrive on **technical challenges** and constantly seek to improve by learning 
 - **Location**: St. Petersburg, Russia
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ellenmartinelli)
 - **GitHub**: [GitHub Profile](https://github.com/ellenmartinelli)
+
+---
+
+<style>
+  /* Background Gradient */
+  body {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6));
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+
+  h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #f0f0f0;
+  }
+
+  p, ul, li {
+    font-size: 1rem;
+  }
+
+  /* Hover Animations for Links */
+  a {
+    color: #4CAF50;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #81C784;
+  }
+
+</style>

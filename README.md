@@ -1,10 +1,11 @@
 # Ellen Martinelli  
 ### Senior Backend Engineer | Problem Solver | Innovator
-<div style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-  <img src="image1.jpg" alt="Profile Image" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 0;">
-  <img src="image2.jpg" alt="At Work" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 0;">
-  <img src="image3.jpg" alt="Outdoor" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 0;">
-  <img src="image4.jpg" alt="Hobby" width="220" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+
+<div style="display: flex; justify-content: flex-start; margin: 0; padding: 0; width: 100%;">
+  <img src="image1.jpg" alt="Profile Image" width="25%" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 10px;">
+  <img src="image2.jpg" alt="At Work" width="25%" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 10px;">
+  <img src="image3.jpg" alt="Outdoor" width="25%" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-right: 10px;">
+  <img src="image4.jpg" alt="Hobby" width="25%" height="150" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 ---

@@ -16,18 +16,11 @@ I thrive on **technical challenges** and constantly seek to improve by learning 
 ## My Photos
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="image1.jpg" alt="Image 1" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease; transform: scale(1);">
-  <img src="image2.jpg" alt="Image 2" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease; transform: scale(1);">
-  <img src="image3.jpg" alt="Image 3" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease; transform: scale(1);">
-  <img src="image4.jpg" alt="Image 4" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease; transform: scale(1);">
+  <img src="image1.jpg" alt="Image 1" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+  <img src="image2.jpg" alt="Image 2" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+  <img src="image3.jpg" alt="Image 3" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
+  <img src="image4.jpg" alt="Image 4" width="200px" height="auto" style="border-radius: 50%; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); transition: all 0.3s ease;">
 </div>
-
-<style>
-  div img:hover {
-    transform: scale(1.1);
-    box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.3);
-  }
-</style>
 
 ---
 
@@ -77,34 +70,3 @@ From **optimizing backend systems** for better performance, to **creating intuit
 - **Location**: St. Petersburg, Russia
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ellenmartinelli)
 - **GitHub**: [GitHub Profile](https://github.com/ellenmartinelli)
-
----
-
-<style>
-  /* Background Gradient */
-  body {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6));
-    color: white;
-    font-family: 'Arial', sans-serif;
-  }
-
-  h1, h2 {
-    font-family: 'Roboto', sans-serif;
-    color: #f0f0f0;
-  }
-
-  p, ul, li {
-    font-size: 1rem;
-  }
-
-  /* Hover Animations for Links */
-  a {
-    color: #4CAF50;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  
-  a:hover {
-    color: #81C784;
-  }
-</style>

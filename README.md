@@ -50,7 +50,7 @@ I prefer straightforward work and value **responsibility** and **collaboration**
 
 ## Contact Information  
 - **Email**: [ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)  
-- **GitHub**: [github.com/ellenmartinelli](https://github.com/ellen0825)
+- **GitHub**: [github.com/ellen0825](https://github.com/ellen0825)
 
 ---
 

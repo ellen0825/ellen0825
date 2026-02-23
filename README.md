@@ -54,11 +54,3 @@ I prefer straightforward work and value **responsibility** and **collaboration**
 
 ---
 
-## My Photos
-
-<div>
-  <img src="./image1.jpg" width="200" style="margin-right: 10px;"/>
-  <img src="./image2.jpg" width="200" style="margin-right: 10px;"/>
-  <img src="./image3.jpg" width="200" style="margin-right: 10px;"/>
-  <img src="./image4.jpg" width="200"/>
-</div>

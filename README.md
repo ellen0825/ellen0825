@@ -1,7 +1,7 @@
 # Ellen Martinelli  
 **Senior Full-Stack Developer**  
 St. Petersburg, Russia  
-[ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com) | [GitHub](https://github.com/ellenmartinelli)
+[ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com) | [GitHub](https://github.com/ellen0825)
 
 ---
 

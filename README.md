@@ -1,21 +1,32 @@
-<h1 align="center">Hi 👋 I'm Ellen</h1>
+# Ellen Martinelli
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ellen0825&theme=algolia&no-frame=true"/>
-</p>
+Full-Stack Developer
 
 ---
 
-## ⚡ Tech Stack
+## Tech
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,php,java,python,postgres,docker"/>
-</p>
+React  
+FastAPI  
+Node.js  
+PostgreSQL  
+Docker  
 
 ---
 
-## 📊 Stats
+## Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ellen0825&show_icons=true&theme=tokyonight"/>
-</p>
+### E-commerce Platform
+Full stack commerce platform.
+
+### SaaS Dashboard
+Admin analytics system.
+
+### REST API
+FastAPI backend services.
+
+---
+
+## Contact
+
+ellenmartinelli0825@outlook.com

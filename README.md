@@ -1,11 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:00c6ff&height=250&section=header&text=Ellen%20Martinelli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<h1 align="center">Hi 👋 I'm Ellen Martinelli</h1>
-
-<p align="center">
-<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=80" width="900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋%20I'm%20Ellen%20Martinelli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">

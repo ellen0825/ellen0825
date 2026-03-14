@@ -1,21 +1,21 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋%20I'm%20Ellen%20Martinelli&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=80" width="100%">
 </p>
+
+<h1 align="center">Ellen Martinelli</h1>
+
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+FastAPI+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FFB2&center=true&vCenter=true&width=750&lines=Expert+Developers+for+a+Connected+World;React+%7C+FastAPI+%7C+Node.js;Building+Modern+Web+Applications;Clean+Architecture+%7C+Scalable+Systems"/>
 </p>
+
 ---
 
-# 🚀 About Me
+# 👩‍💻 About
 
-💻 Full-Stack Developer focused on building modern scalable web applications.  
-
-⚡ Experienced with **React, FastAPI, Node.js, PHP, Java, Python**  
-
-🌍 Working with **international remote teams**  
-
-🧠 Passionate about **clean architecture and performance optimization**
+Full-Stack Developer specializing in building scalable web applications and modern APIs.
+Experienced with enterprise CMS integrations and high-performance backend systems.
 
 ---
 
@@ -37,26 +37,34 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Portfolio
 
 ### 🛒 E-commerce Platform
-Full-stack commerce platform built with **React + FastAPI + PostgreSQL**  
-Includes product catalog, search system, and order processing.
+
+Full-stack commerce platform built with React, FastAPI and PostgreSQL.
 
 ### 📊 SaaS Dashboard
-Modern admin dashboard built with **React and TypeScript**  
-Features analytics charts and real-time data widgets.
+
+Analytics dashboard with modern UI and real-time data widgets.
 
 ### ⚡ FastAPI REST API
-High-performance backend API with authentication and scalable architecture.
 
-### 🧩 WordPress / Bitrix CMS Integration
-Custom CMS plugins and integrations for enterprise websites.
+High-performance backend API architecture.
+
+### 🧩 WordPress / Bitrix Integration
+
+Custom CMS plugins and enterprise integrations.
 
 ---
 
+# 🌍 Languages
 
-# 📫 Contact
+English — Fluent
+Chinese — Fluent
+Russian — Intermediate
 
-📧 ellenmartinelli0825@outlook.com  
+---
 
+# 📬 Contact
+
+📧 [ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)

@@ -58,18 +58,8 @@ Custom CMS plugins and integrations for enterprise websites.
 
 ---
 
-# 🌍 Languages
-
-🇬🇧 English — Fluent  
-🇨🇳 Chinese — Fluent  
-🇷🇺 Russian — Intermediate  
-
----
 
 # 📫 Contact
 
 📧 ellenmartinelli0825@outlook.com  
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ellen0825&style=flat-square&color=blue"/>
-</p>

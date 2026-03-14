@@ -1,3 +1,4 @@
+---
 <p align="center">
 <img src="./images/background.jpg" width="100%">
 </p>
@@ -57,11 +58,7 @@ Custom CMS plugins and enterprise integrations.
 
 ---
 
-# 🌍 Languages
 
-English — Fluent
-Chinese — Fluent
-Russian — Intermediate
 
 ---
 

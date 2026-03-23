@@ -31,21 +31,4 @@ Experienced with enterprise CMS integrations and high-performance backend system
 
 ---
 
-# 🚀 Portfolio
-
-### 🛒 E-commerce Platform
-
-Full-stack commerce platform built with React, FastAPI and PostgreSQL.
-
-### 📊 SaaS Dashboard
-
-Analytics dashboard with modern UI and real-time data widgets.
-
-### ⚡ FastAPI REST API
-
-High-performance backend API architecture.
-
-### 🧩 WordPress / Bitrix Integration
-
-Custom CMS plugins and enterprise integrations.
 

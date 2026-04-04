@@ -17,14 +17,20 @@ Passionate about **user-centered design** and **maintainable, high-performance c
 
 # 🧠 Tech Stack
 
-
-<p align="center" style="font-size:1.2em;">
+<p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind" width="80" title="Frontend" style="margin:10px"/>
+  <strong>Frontend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind" width="60" style="margin:8px" title="Frontend"/>
+</p>
 
+<p align="center">
   <!-- Backend / API -->
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,php,laravel,python,java" width="80" title="Backend/API" style="margin:10px"/>
+  <strong>Backend / API:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,php,laravel,python,java" width="60" style="margin:8px" title="Backend/API"/>
+</p>
 
+<p align="center">
   <!-- Tools / DevOps -->
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" width="80" title="Tools & DevOps" style="margin:10px"/>
+  <strong>Tools & DevOps:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" width="60" style="margin:8px" title="Tools & DevOps"/>
 </p>

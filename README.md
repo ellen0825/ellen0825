@@ -8,10 +8,14 @@
 
 ---
 
-# 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-**Senior Frontend Developer** focused on building **scalable, responsive web applications** and **modern APIs**.  
-Passionate about **user-centered design** and **maintainable, high-performance code**.
+<p align="center" style="font-size:18px; line-height:1.6;">
+  <strong>Senior Frontend Developer</strong> focused on building <strong>scalable, responsive web applications</strong> and <strong>modern APIs</strong>.<br/>
+  Passionate about <strong>user-centered design</strong> and <strong>maintainable, high-performance code</strong>.
+</p>
+
+<hr/>
 
 ---
 

@@ -9,7 +9,7 @@
 ---
 # 👩‍💻 About Me
 
-<p align="center" style="font-size:24px; line-height:1.6;">
+<p align="center" style="font-size:30px; line-height:1.6;">
   <strong>Senior Frontend Developer</strong> focused on building <strong>scalable, responsive web applications</strong> and <strong>modern APIs</strong>.<br/>
   Passionate about <strong>user-centered design</strong> and <strong>maintainable, high-performance code</strong>.
 </p>

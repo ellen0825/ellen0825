@@ -2,7 +2,7 @@
   <img src="./images/background.jpg" width="100%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FFB2&center=true&vCenter=true&width=750&lines=Senior+Frontend+Engineer;Full-Stack+Developer;Vue+%7C+React+%7C+Next.js;Scalable+%26+High-Performance+Web+Apps"/>
 </p>
 
@@ -22,4 +22,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws" />
 </p>
-
+ -->
